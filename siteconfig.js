@@ -90,7 +90,7 @@ export const site = {
 
   // Background ambient sounds/music
   music: {
-    'Murmur': { url: './audio/murmur.mp3', fi: 'Puheensorina'}
+    'Murmur': {url: './audio/murmur.mp3', fi: 'Puheensorina'}
   }
 
 };
